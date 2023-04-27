@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Quest</string>
+    <string name="welcom_title">Welcome to My Quest</string>
+    <string name="welcome_text">After pressing \"START QUEST\" you will start the quest. After selecting the correct answer the next question will pop up. After responding to the last question the app returns to the welcome page.</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="number_of_questions">%1d/%1d</string>
+    <string name="correct_answer">The answer is correct!</string>
+    <string name="incorrect_answer">Wrong answer</string>
+</resources>

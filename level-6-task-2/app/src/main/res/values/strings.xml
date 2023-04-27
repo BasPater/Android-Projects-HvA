@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Level 6 Task 2</string>
+    <string name="search_movie_hint">Name Film</string>
+    <string name="no_result">No results found!</string>
+    <string name="search_for_movie">Search for movie</string>
+    <string name="star">star</string>
+    <string name="overview">Overview</string>
+</resources>
