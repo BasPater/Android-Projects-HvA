@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Level3 Task 2</string>
+    <string name="new_name">New portal name</string>
+    <string name="new_url">New portal url</string>
+    <string name="not_empty">The portal name should be empty. And the URL should be valid</string>
+    <string name="add_portal">Add Portal</string>
+    <string name="reminder_added">Portal added!</string>
+</resources>

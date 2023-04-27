@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Level 4 Task 2</string>
+    <string name="title_game_screen">Level 4 Task 2: Rock, Paper, Scissors</string>
+    <string name="nav_play">Play</string>
+    <string name="nav_history">History</string>
+    <string name="title">Rock, Paper, Scissors</string>
+    <string name="instructions">Instructions: select rock, paper, or scissors to play</string>
+    <string name="statistics">WIN: %1s DRAW: %1s  LOSE: %1s </string>
+    <string name="computer">Computer</string>
+    <string name="vs">V.S.</string>
+    <string name="you">You</string>
+    <string name="choose_option">Choose Option</string>
+    <string name="computer_wins">Computer Wins</string>
+    <string name="player_wins">You Win</string>
+    <string name="draw">Draw</string>
+    <string name="statistics_title">Your all time statistics</string>
+</resources>
